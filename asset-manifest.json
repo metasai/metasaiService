@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/metasaiService/static/css/main.256b74b3.css",
+    "main.js": "/metasaiService/static/js/main.9dcdf5ed.js",
+    "static/media/metaProject1.png": "/metasaiService/static/media/metaProject1.7fc99355c48f17c69b7b.png",
+    "static/media/Saas.jpg": "/metasaiService/static/media/Saas.d2d99216063352d75563.jpg",
+    "static/media/about2.png": "/metasaiService/static/media/about2.fec86785532579f2a045.png",
+    "static/media/Cheer-up.jpg": "/metasaiService/static/media/Cheer-up.ac6601c3fc957224decf.jpg",
+    "static/media/D-univ.jpg": "/metasaiService/static/media/D-univ.a324094ce51aae451e78.jpg",
+    "static/media/about4.png": "/metasaiService/static/media/about4.7d7b5488bf6c61194bde.png",
+    "static/media/forecast.png": "/metasaiService/static/media/forecast.e7c5bbf2167c37d2b02b.png",
+    "static/media/NFT_service.jpg": "/metasaiService/static/media/NFT_service.6fb8a8a80ba4939e5347.jpg",
+    "static/media/metaProject2.svg": "/metasaiService/static/media/metaProject2.9576b0d90c2a4e6cc80cdf41087f1cbe.svg",
+    "static/media/metaProject3.svg": "/metasaiService/static/media/metaProject3.a9075613c8968cbd54ee71ef60efeda8.svg",
+    "static/media/metaProject4.svg": "/metasaiService/static/media/metaProject4.d124720a4d97768452d0c005c4b1a5d0.svg",
+    "static/media/BRANDAI_service_.jpg": "/metasaiService/static/media/BRANDAI_service_.3adbfcacd0b9e2e3a169.jpg",
+    "static/media/Alpha-star.png": "/metasaiService/static/media/Alpha-star.f074fd775e41088e9e02.png",
+    "static/media/line.png": "/metasaiService/static/media/line.3a6a07c6db5f75eeb158.png",
+    "static/media/bg-banner.png": "/metasaiService/static/media/bg-banner.e72e3f48954cea4f1547.png",
+    "static/media/metasaiLog.svg": "/metasaiService/static/media/metasaiLog.596d9d2a8b0daf382d7f12209cea0778.svg",
+    "index.html": "/metasaiService/index.html",
+    "main.256b74b3.css.map": "/metasaiService/static/css/main.256b74b3.css.map",
+    "main.9dcdf5ed.js.map": "/metasaiService/static/js/main.9dcdf5ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256b74b3.css",
+    "static/js/main.9dcdf5ed.js"
+  ]
+}
