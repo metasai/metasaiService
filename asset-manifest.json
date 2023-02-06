@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/metasaiService/static/css/main.256b74b3.css",
-    "main.js": "/metasaiService/static/js/main.ce1a8992.js",
+    "main.js": "/metasaiService/static/js/main.5d32b0d8.js",
     "static/media/metaProject1.png": "/metasaiService/static/media/metaProject1.7fc99355c48f17c69b7b.png",
     "static/media/Saas.jpg": "/metasaiService/static/media/Saas.d2d99216063352d75563.jpg",
     "static/media/about2.png": "/metasaiService/static/media/about2.fec86785532579f2a045.png",
@@ -20,10 +20,10 @@
     "static/media/metasaiLog.svg": "/metasaiService/static/media/metasaiLog.596d9d2a8b0daf382d7f12209cea0778.svg",
     "index.html": "/metasaiService/index.html",
     "main.256b74b3.css.map": "/metasaiService/static/css/main.256b74b3.css.map",
-    "main.ce1a8992.js.map": "/metasaiService/static/js/main.ce1a8992.js.map"
+    "main.5d32b0d8.js.map": "/metasaiService/static/js/main.5d32b0d8.js.map"
   },
   "entrypoints": [
     "static/css/main.256b74b3.css",
-    "static/js/main.ce1a8992.js"
+    "static/js/main.5d32b0d8.js"
   ]
 }
