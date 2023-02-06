@@ -13,12 +13,10 @@ function App() {
           duration : 2000
         }); 
       }, []);
-
     return (
         <>
 
             <Header />
-
             <Routes>
 
                 {
