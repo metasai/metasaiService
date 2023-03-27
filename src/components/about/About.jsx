@@ -65,7 +65,7 @@ function About(props) {
       {
         id: 2,
         subheading: "About us",
-        heading: "Vertual Univ",
+        heading: "Virtual Univ",
         desc1: "Unity 엔진 활용한 3D 아바타 및 가상환경 구현 다중접속환경 속 요소들을 관리하고 성장시키는 환경 구축",
         desc2: "P2E와 민팅이 가능한 통합 생횔 및 경제 시스템 지향",
         desc3: "",
